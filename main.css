@@ -1,0 +1,117 @@
+h1{
+    color:rgb(241, 142, 12);
+    font-size: 90px;
+}
+
+h1:hover {
+    background-color:rgb(72, 6, 134);
+}
+
+p {
+    font-size: 50px;
+    color: rgb(240, 142, 15);
+  }
+
+  P:hover {
+    background-color:rgb(162, 17, 247);
+}
+
+.background {
+    background: url("mainphoto.jpg") 
+}
+
+body {
+    background-image: url("mainphoto.jpg");
+    background-repeat:no-repeat; 
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+.navbar a{
+    text-decoration: none; 
+    color: rgb(236, 206, 130)
+}
+
+.navbar{
+    display:flex; 
+    justify-content: space-around;
+    text-align: center;
+    font-size:45px;
+}
+
+a:hover {
+    background-color: rgb(98, 10, 180);
+  }
+
+h2{
+    color:rgb(241, 142, 12);
+    font-size: 90px;
+    
+}
+
+h2:hover {
+    background-color:rgb(77, 5, 124);
+}
+
+h3{
+    color:rgb(241, 142, 12);
+    font-size: 90px;
+}
+
+h3:hover {
+    background-color:rgb(77, 5, 124);
+}
+
+h4{
+    color:rgb(241, 142, 12);
+    font-size: 30px;
+}
+
+h4:hover {
+    background-color:rgb(77, 5, 124);
+}
+
+
+
+
+
+.box {
+    color:rgb(245, 230, 16);
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding:15px; 
+    flex: 1; 
+}
+
+
+
+
+
+
+
+
+
+
+
+h2{
+    color:burlywood;
+    font-size: 50px;
+}
+
+h3{
+    color:burlywood;
+    font-size: 50px;
+}
+
+
+div {
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: px;
+  }
+
+
+
+
